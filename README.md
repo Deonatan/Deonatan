@@ -6,8 +6,7 @@ def introduction():
     interest = ["Software Engineering", "Machine Learning", "Data Science"]
     print("My name is",name,"I love to do projects related to",interest)
 ```
-<h2>📊 Stats</h2>
-
+<h1 align = "center">📊 Stats</h1>
 <div>
   <p align= "center">  
     <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Deonatan&show_icons=true" alt="stats" /> 
