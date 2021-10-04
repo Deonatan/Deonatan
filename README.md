@@ -2,10 +2,8 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Deonatan)](https://github.com/Deonatan) [![GitHub followers](https://img.shields.io/github/followers/Deonatan.svg?style=social&label=Follow)](https://github.com/Deonatan?tab=followers)
 ```
 class Me:
-      
       def __init__(self):
           self.name = "Juan Samuel"
           self.interest = ["Software Engineering", "Machine Learning", "Data Science"]
-
 me = Me()
 ```
