@@ -6,3 +6,17 @@ def introduction():
     interest = ["Software Engineering", "Machine Learning", "Data Science"]
     print("My name is",name,"I love to do projects related to",interest)
 ```
+<h2>📊 Stats</h2>
+
+<div>
+  <p align= "center">  
+    <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Deonatan&show_icons=true" alt="stats" /> 
+  </p>
+  
+  <p align="center">
+  <b><em>Overall GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deonatan" alt="GitHub Stats" /> <br/><br/>
+  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deonatan" alt="WakaTime" />
+  </p>
+</div>
