@@ -6,7 +6,7 @@ def introduction():
     interest = ["Software Engineering", "Machine Learning", "Data Science"]
     print("My name is",name,"I love to do projects related to",interest)
 ```
-<br><br/>
+<hr><hr/>
 
 <h1 align = "center">📊 Stats</h1>
 <div>
