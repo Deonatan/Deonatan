@@ -5,5 +5,4 @@ class Me:
       def __init__(self):
           self.name = "Juan Samuel"
           self.interest = ["Software Engineering", "Machine Learning", "Data Science"]
-me = Me()
 ```
