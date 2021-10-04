@@ -8,7 +8,6 @@ def introduction():
 ```
 <h1 align = "center">📊 My Github Stats</h1>
 <div>
-    <img align = "left" src="https://github-readme-stats-five-lyart.vercel.app/api?username=Deonatan&show_icons=true" alt="stats" /> 
-    <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deonatan" />
-    <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=Deonatan" alt="GitHub Stats" />
+    <img align = "center" src="https://github-readme-stats-five-lyart.vercel.app/api?username=Deonatan&show_icons=true" alt="stats" /><br/> 
+    <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deonatan" alt="GitHub Stats" />
 </div>
