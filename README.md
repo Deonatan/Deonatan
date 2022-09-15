@@ -12,8 +12,9 @@ def introduction():
         <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Deonatan&show_icons=true" alt="stats" />
         <br><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deonatan" alt="GitHub Stats" />
+        <br><br/>
+        <img align = "center" src="https://thumbs.gfycat.com/MessyHandmadeDragon-small.gif">
     <p/>
 </div>
 
-<img align = "center" src="https://thumbs.gfycat.com/MessyHandmadeDragon-small.gif">
 
