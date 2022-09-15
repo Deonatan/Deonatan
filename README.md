@@ -9,9 +9,11 @@ def introduction():
 <h1 align = "center">📊 My Github Stats</h1>
 <div>
     <p align = "center">
-        <img src="https://thumbs.gfycat.com/MessyHandmadeDragon-small.gif">
         <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=Deonatan&show_icons=true" alt="stats" />
         <br><br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deonatan" alt="GitHub Stats" />
     <p/>
 </div>
+
+<img align = "center" src="https://thumbs.gfycat.com/MessyHandmadeDragon-small.gif">
+
