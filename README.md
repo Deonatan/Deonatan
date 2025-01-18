@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Deonatan Dinata</h2>
+<img align="right" height="150" src="https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47d7acq98y1war2zuuopviv9qiq6krasaeznlruykf&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -9,11 +10,21 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47d7acq98y1war2zuuopviv9qiq6krasaeznlruykf&rid=giphy.gif&ct=g"  />
+<br clear="both">
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/deo_street?theme=dark&font=Roboto%20Serif&ext=contest" alt="LC Stat" />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Deonatan/count.svg?"  />
+</div>
+
+###
+
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -43,31 +54,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Deonatan/Deonatan/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Deonatan/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Deonatan">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=27cdz1fsn91myug1fdbh5qtby" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
