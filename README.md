@@ -1,18 +1,18 @@
 <h2 align="left">Hi 👋! My name is Deonatan Dinata</h2>
-<img align="right" height="150" src="https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47d7acq98y1war2zuuopviv9qiq6krasaeznlruykf&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media3.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47d7acq98y1war2zuuopviv9qiq6krasaeznlruykf&rid=giphy.gif&ct=g"  />
+
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deonatan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deonatan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/deo_street?theme=dark&font=Roboto%20Serif&ext=contest" alt="LC Stat" />
 </div>
 
 ###
 
-<br clear="both">
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/deo_street?theme=dark&font=Roboto%20Serif&ext=contest" alt="LC Stat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deonatan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deonatan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
